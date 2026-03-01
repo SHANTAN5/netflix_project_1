@@ -1,1 +1,1 @@
-# netflix_project_1
+# Netflix Movies and TV Shoes Data Analysis using SQL
